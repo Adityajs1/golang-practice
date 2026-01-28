@@ -8,5 +8,9 @@ func main(){
 	// Product()
 	// vary()
 	// greet("Arnav")
-	re()
+	// re()
+	// numbers()
+	// total:= summation()
+	// fmt.Println(total)
+	appended()
 }

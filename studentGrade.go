@@ -8,9 +8,7 @@ type Student struct{
     Grade []int
 }
 
-func addGrade(student *Student, grade int) {
-    student.Grade = append(student.Grade, grade)
-}
+
 
 func averageGrade(student Student) float64{
     if len(student.Grade) == 0{
@@ -59,9 +57,7 @@ func studentGrade(){
         Grade: []int{78, 48, 50},
     }
 
-    addGrade(&s, 78)
-    addGrade(&s1, 70)
-    addGrade(&s2, 65)
+
 
     // Create slice of students
     students := []Student{s, s1, s2}
