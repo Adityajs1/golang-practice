@@ -12,5 +12,7 @@ func main(){
 	// numbers()
 	// total:= summation()
 	// fmt.Println(total)
-	appended()
+	// appended()
+	ageMap()
+	person()
 }
