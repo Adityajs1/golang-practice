@@ -15,4 +15,5 @@ func main(){
 	// appended()
 	ageMap()
 	person()
+	variqdic(1, 2, 3, 4)
 }

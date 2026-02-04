@@ -17,7 +17,7 @@ func person(){
 	Age: 30,
   }
 
- fmt.Printf("Name: %s, Age: %d\n", s.Name, s.Age)
+fmt.Printf("Name: %s, Age: %d\n", s.Name, s.Age)
 fmt.Printf("Name: %s, Age: %d\n", s1.Name, s1.Age)
 
 }
