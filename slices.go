@@ -23,10 +23,10 @@ func slices() {
 	last := numbers[len(numbers)-1]
 
 	// Slicing
-	subset1 := numbers[1:4] // Elements at index 1, 2, 3
-	subset2 := numbers[:3]  // First 3 elements
-	subset3 := numbers[2:]  // From index 2 to end
-	subset4 := numbers[:]   // Copy entire slice
+	subset1 := numbers[1:4] 
+	subset2 := numbers[:3]
+	subset3 := numbers[2:]  
+	subset4 := numbers[:]  
 
 	// Length and capacity
 	length := len(numbers) // Number of elements
