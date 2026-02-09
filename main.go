@@ -18,5 +18,7 @@ func main(){
 	// variqdic(1, 2, 3, 4)
 	// channels()
 	// channelstwo()
-	forselect()
+	// forselect()
+	// channelsum()
+	workers()
 }
