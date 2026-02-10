@@ -20,5 +20,10 @@ func main(){
 	// channelstwo()
 	// forselect()
 	// channelsum()
-	workers()
+	// workers()
+	// returnSquare()
+	// tokens()
+	// valok()
+	// selec()
+	defaul()
 }

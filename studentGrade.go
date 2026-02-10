@@ -8,8 +8,6 @@ type Student struct{
     Grade []int
 }
 
-
-
 func averageGrade(student Student) float64{
     if len(student.Grade) == 0{
         return 0.0
