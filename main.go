@@ -25,5 +25,9 @@ func main(){
 	// tokens()
 	// valok()
 	// selec()
-	defaul()
+	// defaul()
+	// standardtime()
+	// sender()
+	// only()
+	mutexx()
 }
