@@ -16,5 +16,4 @@ func valok(){
 
 	val, ok = <-ch
 	fmt.Println(val, ok)
-
 }

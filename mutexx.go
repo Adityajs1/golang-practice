@@ -8,7 +8,6 @@ func (p *post) inc(){
 	p.views += 1
 }
 
-
 func mutexx(){
 	postCount := post{views: 0}
 	postCount.inc()
